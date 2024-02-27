@@ -13,7 +13,4 @@ config {
 
 -- The rest of a SQLX file contains your SELECT statement used to create the table.
 
-SELECT
-  *
-FROM
-  Amazon.transaction_view_master
+SELECT 1 test
