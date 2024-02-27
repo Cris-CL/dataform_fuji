@@ -1,4 +1,6 @@
-config { type: "view" }
+config {
+    type: "view"
+}
 
 SELECT
   *
